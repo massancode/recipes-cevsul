@@ -1,8 +1,14 @@
 # recipes-cevsul
+Pegue 360g de carne bovina
+1 colher (sopa) de cheiro-verde picado
+1 cebola pequena picada
+1 ovo
+1 colher (cha) de sal
+2 colheres (sopa) de oleo
+6 fatias de queijo prato (90 gramas)
+6 paes de hamburguer cortados ao meio
+6 folhas de alface crespa
+1 tomate grande fatiado em rodelas
+1/2 xicara de cha de Maionese Hellmann's
 
-
-Receitas - HAMBURGUER
-PRIMEIRAMENTE VOCE VAI AO SUPER MERCADO DO FRERREIRA R CARVALHO OU TANTO FAZ. 
-AI VC COMPRA PAO BRIOCHE PQ E BOM DEMAIESES. DEPOIS VOCE COMPRA CARNE DE HAMBURGUER PQ VAMOS FAZER HAMBURGUER NE KKKKKKKKKKKK. DEPOIS COMPRE ALFACE E TOMATE PRA DIZER NAS REDES SOCIAIS QUE VOCE E SAUDAVEL E TBM SE QUISER CEBOLA. 
-DEPOIS DISSO VOLTE PARA CASA. 
-AO CHEGAR EM CASA VOCE PEGA A CARNE DE HAMBURGUER DE SUA ESCOLHA E PONHA MANTEIGA NA FRIGIDEIRA
+OBS: Nao tempere com sal. Divida em 2 bolas (180 g cada) e modele os hamburgueres: achate cada uma, coloque sobre a tabua e va acertando as laterais, empurrando para dentro com as maos . a ideia e formar uma paredinha reta para que o hamburguer fique alto.
