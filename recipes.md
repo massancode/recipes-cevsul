@@ -1,6 +1,12 @@
 # recipes-cevsul
 
 
+qualquer-coisa
+Receita: pão com manteiga
+ingredientes: pão e manteiga
+forma de preparo: pegue o pão e passe a manteiga
+FIM!!!
+=======
 Receitas -
 Ingredientes:
 500g de farinha de trigo
@@ -29,4 +35,5 @@ Assando o pão: Preaqueça o forno a 180°C. Se desejar, pincele o pão com ovo 
 
 Finalizando: Retire o pão do forno e deixe esfriar um pouco antes de cortar.
 
-Agora é só saborear seu pão fresquinho! 🍞
+Agora é só saborear seu pão fresquinho! 
+Pão
