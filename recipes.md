@@ -1,5 +1,19 @@
 # recipes-cevsul
+Pegue 360g de carne bovina
+1 colher (sopa) de cheiro-verde picado
+1 cebola pequena picada
+1 ovo
+1 colher (cha) de sal
+2 colheres (sopa) de oleo
+6 fatias de queijo prato (90 gramas)
+6 paes de hamburguer cortados ao meio
+6 folhas de alface crespa
+1 tomate grande fatiado em rodelas
+1/2 xicara de cha de Maionese Hellmann's
 
+
+OBS: Nao tempere com sal. Divida em 2 bolas (180 g cada) e modele os hamburgueres: achate cada uma, coloque sobre a tabua e va acertando as laterais, empurrando para dentro com as maos . a ideia e formar uma paredinha reta para que o hamburguer fique alto.
+=======
 
 
 ### Ingredientes:
@@ -155,5 +169,6 @@ Esfriar: Depois de atingir o ponto, retire a panela do fogo e deixe esfriar por 
 Enrolar: Unte as maos com um pouco de manteiga e enrole a massa em bolinhas. Passe as bolinhas no chocolate granulado.
 
 Servir: Sirva o brigadeiro em forminhas de papel e aproveite!
+
 
 
